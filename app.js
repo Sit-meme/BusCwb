@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://SEU-BACKEND.onrender.com/api";
+const API_BASE_URL = "https://buscwb.onrender.com/api";
 
 let LINHAS = [];
 let linhaSelecionadaId = null;
